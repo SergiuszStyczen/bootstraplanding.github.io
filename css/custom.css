@@ -1,0 +1,83 @@
+* {
+  font-family: 'Arsenal', sans-serif;
+}
+  .intro-header {
+    background: url(../img/book.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+  .intro_1 {
+    padding-top: 30%;
+    padding-bottom: 15%;
+    text-align: center;
+  }
+
+  .intro_1 h1 {
+    font-size: 5em;
+
+  }
+
+  .intro_1 li {
+      margin-top: 10px;
+  }
+
+  .divider {
+    margin: 30px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+
+  .first_cont {
+    background: #f8f8f8;
+    padding: 50px 0;
+  }
+
+  .second_cont {
+    padding: 50px 0;
+  }
+
+  #first_img {
+    margin-top: 30px;
+  }
+
+ .divider_2 {
+    border-top: 2px solid #f8f8f8;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+  }
+
+.banner {
+  background: url(../img/comp.jpg);
+  position: relative;
+  padding-top: 4.5%;
+  padding-bottom: 4.5%;
+  text-align: center;
+
+}
+
+#sec_list {
+  margin-top: 15px;
+
+}
+
+#sec_list li {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 5px 0px;
+}
+
+.foot_1 {
+  padding: 15px 0;
+}
+
+footer {
+  background: #f8f8f8;
+}
+
+footer li {
+  font-size: 15px;
+
+}
+
